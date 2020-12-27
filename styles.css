@@ -97,11 +97,13 @@ i:hover
         display:none;
     }
 
+
     body
     {
         background-image: url("ressources/img/poster.jpg");
         background-repeat: no-repeat;
-        background-size: cover;
+        background-size: cover; 
+        margin: 0px 0px 0px 0px;
     }
 
 
@@ -109,5 +111,6 @@ i:hover
     {
         width: 100%;
         border-radius: initial;
+
     }
 }
